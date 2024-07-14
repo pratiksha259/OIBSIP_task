@@ -1,1 +1,3 @@
 # OIBSIP_task
+
+This project is a full-featured, responsive web application designed to streamline the pizza ordering process, from browsing the menu to placing an order and tracking delivery status. Built with a modern tech stack including HTML, CSS, JavaScript, and a backend powered by Node.js and Express, this website offers a seamless and user-friendly experience. Key features include customizable pizza options, real-time order tracking, user authentication, and a secure checkout process. Whether you're craving a classic Margherita or a loaded Meat Lovers, our site ensures your favorite pizza is just a few clicks away. Explore the repository to learn more about the project's architecture, installation instructions, and contribution guidelines. Bon appétit!
